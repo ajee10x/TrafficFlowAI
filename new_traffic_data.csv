@@ -1,0 +1,4 @@
+VehicleID,Speed,Acceleration,Location,TimeOfDay
+1,50,2,Highway,Morning
+2,35,1.2,City,Afternoon
+3,65,2.5,Highway,Evening
