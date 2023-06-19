@@ -1,0 +1,7 @@
+VehicleID,Speed,Acceleration,Location,TimeOfDay,Label
+1,60,3,Highway,Morning,Routine
+2,45,1,City,Afternoon,Congestion
+3,70,2,Highway,Evening,Routine
+4,30,0.5,City,Morning,Congestion
+5,55,1.5,Highway,Afternoon,Routine
+6,40,0.8,City,Evening,Congestion
