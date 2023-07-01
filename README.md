@@ -1,7 +1,15 @@
 # TrafficFlowAI
-v1.0
+
+## v1.2
+In this version (v1.2), the following enhancements have been made:
+- Added the calculation of the F1-score as an additional evaluation metric to assess the model's performance on both precision and recall.
+- No other changes have been made from version 1.0.
+
+## v1.0
 Traffic Data Analysis and Prediction.
 This project focuses on analyzing real-world traffic data to understand, model, and predict human driving trajectories. The goal is to contribute to autonomous driving technologies and intelligent transportation research.
+
+
 
 ## Table of Contents
 - [Project Overview](#project-overview)
