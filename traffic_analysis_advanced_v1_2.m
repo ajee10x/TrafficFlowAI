@@ -1,7 +1,7 @@
 % Traffic Data Analysis for Modeling and Prediction of Traffic Scenarios
 % Traffic Analysis Advanced v1.2
 % Author: [ajee10x]
-% Date: [19.06.2023]
+% Date: [01.07.2023]
 
 % Load and preprocess the data
 data = readmatrix('traffic_data.csv'); % Assuming the data is in CSV format
